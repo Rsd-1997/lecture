@@ -1,0 +1,22 @@
+body {
+  background-color: #fca652;
+margin: 0;
+}
+
+.heading1 {
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.class {
+  margin: 10px;
+  margin-left: 20%;
+
+}
+.fas {
+  margin: 2px;
+}
+
+.heading{
+  background-color: #ac4b1c;
+}
