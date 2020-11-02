@@ -41,10 +41,10 @@ margin: 0;
 .testimonial-text {
   font-size: 1rem;
   line-height: 1.5;
+  color: black;
 }
 
-.testimonial-image {
-  width: 50%;
-  margin: 5%;
-  
+.morning {
+  padding-bottom:10%;
+
 }
